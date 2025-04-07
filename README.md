@@ -53,5 +53,15 @@ This project explores how machine learning can be used to classify online shoppe
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+## Future Work
+
+- Add temporal/session-level behavior modeling
+- Deploy model via web interface (Streamlit, Flask)
+- Incorporate deep learning techniques for behavioral sequences
+
+## License
+
+This project is open-source and available under the MIT License.
+
 
 
